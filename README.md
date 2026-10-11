@@ -85,4 +85,3 @@ Frosted Jelly is implementation-agnostic. Arc Music demonstrates one Android imp
 ## License
 
 No license file is currently included. Add a license before redistributing or reusing this work outside your own projects.
-
